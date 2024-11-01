@@ -1,0 +1,20 @@
+type: edu
+files:
+  - name: arithmetic.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12803#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 24 Oct 2024 01:52:36 UTC"
+record: 2
